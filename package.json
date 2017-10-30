@@ -2,7 +2,7 @@
   "name": "homey-signals-toolkit",
   "version": "1.0.0",
   "description": "Tools that can be used to filter rf/ir signals and write rf/ir apps",
-  "main": "index.js",
+  "main": "record.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
