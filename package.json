@@ -1,0 +1,15 @@
+{
+  "name": "homey-signals-toolkit",
+  "version": "1.0.0",
+  "description": "Tools that can be used to filter rf/ir signals and write rf/ir apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Reinier Hasper",
+  "license": "ISC",
+  "dependencies": {
+    "athom-api": "^2.0.25",
+    "dotenv": "^4.0.0"
+  }
+}
